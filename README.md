@@ -16,11 +16,11 @@ My email address: cristina.radulescu.utcn@gmail.com
 
 Lab 1
 
-[1. OOP Revision](https://github.com/kittyrad/laborator1/blob/master/src/resources/Test_OOP.docx)
+[1. OOP Revision](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%201/Test_OOP.docx)
 
-[2. Solid principles](https://github.com/kittyrad/laborator1/blob/master/src/resources/SOLID%20Principles.docx)
+[2. Solid principles](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%201/SOLID%20Principles.docx)
 
-[3. Homework](https://github.com/kittyrad/laborator1/blob/master/src/resources/Gara%20Waterloo%20Station.docx)
+[3. Homework](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%201/Gara%20Waterloo%20Station.docx)
 
 Lab 2
 
