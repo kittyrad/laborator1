@@ -26,7 +26,7 @@ Lab 2
 
 [1. DB modelling problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%202/Specificatie%20Magazin.docx)
 
-[2.Solution DB modelling problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%202/rezolvare_db.png)
+[2. Solution DB modelling problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%202/rezolvare_db.png)
 
 [3. JSF Application Example](https://github.com/kittyrad/HelloStudent)
 
