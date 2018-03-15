@@ -40,17 +40,22 @@ Lab 3
 
 [3.Domain Model](https://stackoverflow.com/questions/41335249/domain-model-pattern-example)
 
-[4.Active Record](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-active-record/)
+[4.Table Module](https://stackoverflow.com/questions/433819/table-module-vs-domain-model)
 
-[5.Table Module](http://www.informit.com/articles/article.aspx?p=1398617&seqNum=3)
+[5.Row Data Gateway](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-row-data-gateway/)
 
-[6.Row Data Gateway](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-row-data-gateway/)
+[6.Active Record](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-active-record/)
 
 [7.Data mapper](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-data-mapper/)
 
 [8.Table Data gateway](http://richard.jp.leguen.ca/tutoring/soen343-f2010/tutorials/implementing-table-data-gateway/)
 
-[9. Git Link to Assignment 1](https://classroom.github.com/a/vOHZXY81)
+[9. Git Link to ASSIGNMENT 1](https://classroom.github.com/a/vOHZXY81)
+
+[10. More about Patterns](https://inviqa.com/blog/architecture-patterns-domain-model-and-friends)
+
+11. Laboratory activity: Implement an example of a 3 layers application and also use 2 of the patterns described above.
+
 
 
 
