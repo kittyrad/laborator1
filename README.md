@@ -56,7 +56,13 @@ Lab 3
 
 11. Laboratory activity: Implement an example of a 3 layers application and also use 2 of the patterns described above.
 
+Lab 4
 
+[1. Microservices vs. SOA] (https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al)
+
+[2. Microservices vs. Service-Oriented Architecture] (https://www.openshift.com/promotions/microservices.html)
+
+3. Laboratory activity: Implement problem using Microservices or SOA 
 
 
 
