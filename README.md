@@ -58,11 +58,11 @@ Lab 3
 
 Lab 4
 
-[1. Microservices vs. SOA] (https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al)
+[1. Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al)
 
-[2. Microservices vs. Service-Oriented Architecture] (https://www.openshift.com/promotions/microservices.html)
+[2. Microservices vs. Service-Oriented Architecture](https://www.openshift.com/promotions/microservices.html)
 
-3. Laboratory activity: Implement problem using Microservices or SOA 
+[3. Laboratory activity: Implement problem using Microservices or SOA](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%204/Magazinul%20online%20TU%20shop.docx)
 
 
 
