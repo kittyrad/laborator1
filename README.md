@@ -64,5 +64,6 @@ Lab 4
 
 [3. Laboratory activity: Implement problem using Microservices or SOA](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%204/Magazinul%20online%20TU%20shop.docx)
 
+[4. Nice example of CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 
 
