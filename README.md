@@ -6,6 +6,8 @@ Helpful links for the laboratory session
 
 My email address: cristina.radulescu.utcn@gmail.com
 
+
+-------------------------------------------------------------------------------------------------------------------------------
 [1. Attendance list](https://github.com/kittyrad/laborator1/blob/master/src/resources/30235.xlsx)
 
 [2. Schedule for the semester](https://github.com/kittyrad/laborator1/blob/master/src/resources/Schedule_2018.pdf)
@@ -14,6 +16,7 @@ My email address: cristina.radulescu.utcn@gmail.com
 
 [4. Project deliverables](https://github.com/kittyrad/laborator1/tree/master/src/resources/Project%20Deliverables)
 
+-------------------------------------------------------------------------------------------------------------------------------
 Lab 1
 
 [1. OOP Revision](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%201/Test_OOP.docx)
@@ -22,6 +25,8 @@ Lab 1
 
 [3. Homework](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%201/Gara%20Waterloo%20Station.docx)
 
+
+-------------------------------------------------------------------------------------------------------------------------------
 Lab 2
 
 [1. DB modelling problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%202/Specificatie%20Magazin.docx)
@@ -32,6 +37,8 @@ Lab 2
 
 [4. What is JSF?](https://www.tutorialspoint.com/jsf/index.htm)
 
+
+-------------------------------------------------------------------------------------------------------------------------------
 Lab 3
 
 [1.Layered architecture](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
@@ -56,6 +63,8 @@ Lab 3
 
 11. Laboratory activity: Implement an example of a 3 layers application and also use 2 of the patterns described above.
 
+
+-------------------------------------------------------------------------------------------------------------------------------
 Lab 4
 
 [1. Microservices vs. SOA](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al)
@@ -67,3 +76,31 @@ Lab 4
 [4. Nice example of CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 
 
+-------------------------------------------------------------------------------------------------------------------------------
+Lab 5
+
+[1. Model-View-Controller Pattern](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm)
+
+[2. Factory pattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
+
+[3. More about ORM](https://www.tutorialspoint.com/hibernate/orm_overview.htm)
+
+[4. Hibernate example](https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/)
+ 
+ 5. Laboratory activity:
+ - Refactor a database pattern from Assignment 1 to use Hibernate
+ - Implement and explain the Factory design pattern
+ - Explain what MVC pattern means
+ 
+ 
+ -------------------------------------------------------------------------------------------------------------------------------
+ Lab 6 (Easter holiday)
+ 
+ [1. Assignment 2: Pharmacy](https://classroom.github.com/a/29kPwd7a)
+ 
+ 
+ 
+ -------------------------------------------------------------------------------------------------------------------------------
+  Lab 7 
+
+  tbd 
