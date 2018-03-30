@@ -101,8 +101,8 @@ Lab 5
   [6.6. GoF Design Patterns](https://springframework.guru/gang-of-four-design-patterns/)
  
  -------------------------------------------------------------------------------------------------------------------------------
- ab 6 (Easter holiday)
- 
+ Lab 6 (Easter holiday)
+  
  [1. Assignment 2: Pharmacy](https://classroom.github.com/a/29kPwd7a)
  
  
