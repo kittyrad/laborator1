@@ -87,14 +87,21 @@ Lab 5
 
 [4. Hibernate example](https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/)
  
- 5. Laboratory activity:
+5. Laboratory activity:
  - Refactor a database pattern from Assignment 1 to use Hibernate
  - Implement and explain the Factory design pattern
  - Explain what MVC pattern means
  
+6. Analysis and design document explained
+  [6.1. Package diagram](https://en.wikipedia.org/wiki/Package_diagram)
+  [6.2. Component diagram](https://stackoverflow.com/questions/17390049/component-diagram-versus-class-diagram)
+  [6.3. Deployment diagram](https://www.lucidchart.com/pages/uml-deployment-diagram)
+  [6.4. Sequence diagram](https://www.ibm.com/developerworks/rational/library/3101.html)
+  [6.5. Communication diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-communication-diagram/ )
+  [6.6. GoF Design Patterns](https://springframework.guru/gang-of-four-design-patterns/)
  
  -------------------------------------------------------------------------------------------------------------------------------
- Lab 6 (Easter holiday)
+ ab 6 (Easter holiday)
  
  [1. Assignment 2: Pharmacy](https://classroom.github.com/a/29kPwd7a)
  
