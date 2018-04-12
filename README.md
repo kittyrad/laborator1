@@ -110,4 +110,8 @@ Lab 5
  -------------------------------------------------------------------------------------------------------------------------------
   Lab 7 
 
-  tbd 
+ [1. Factory method, prototype, abstract factory, singleton, builder](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
+ [2. Spring boot example project](https://github.com/kittyrad/springexample)
+  3. Lab exercise: Implement builder design pattern
+  
+  
