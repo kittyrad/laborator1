@@ -16,6 +16,12 @@ My email address: cristina.radulescu.utcn@gmail.com
 
 [4. Project deliverables](https://github.com/kittyrad/laborator1/tree/master/src/resources/Project%20Deliverables)
 
+5. Final Project remainder
+   - [Design patterns](https://sourcemaking.com/design_patterns)
+   - You will present 3 design patterns for the final project (Creational, Structural, Behavioral)
+   - the design patterns will be shown also in the deliverable (Iteration 1.2 and 2)
+   - as discussed the projects will be more complex than the Assignments (architecture, design, frameworks used)
+   - projects with only 2 or 3 classes in the class diagram will not be accepted!
 -------------------------------------------------------------------------------------------------------------------------------
 Lab 1
 
