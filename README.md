@@ -111,10 +111,9 @@ Lab 5
   
  [1. Assignment 2: Pharmacy](https://classroom.github.com/a/29kPwd7a)
  
- 
- 
+  
  -------------------------------------------------------------------------------------------------------------------------------
-  Lab 7 
+ Lab 7 
 
  [1. Factory method, prototype, abstract factory, singleton, builder](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
  
@@ -122,4 +121,7 @@ Lab 5
  
   3. Lab exercise: Implement builder design pattern
   
-  
+ -------------------------------------------------------------------------------------------------------------------------------
+Lab 8
+
+  [1. Lab exercise: Use design patterns to implement the following problem.]()
