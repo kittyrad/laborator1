@@ -124,4 +124,4 @@ Lab 5
  -------------------------------------------------------------------------------------------------------------------------------
 Lab 8
 
-  [1. Lab exercise: Use design patterns to implement the following problem.]()
+  [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema1-design-patterns.txt)
