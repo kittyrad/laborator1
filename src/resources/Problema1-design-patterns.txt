@@ -1,0 +1,15 @@
+Problema 1 (design patterns)
+
+O fabrica care face masini are mai multe sedii unde se vand masinile pe care le construieste.
+Fiecare sediu are un stoc de masini. In momentul in care se face livrarea de la fabrica se
+stie care este sediul la care trebuie sa ajunga o masina, astfel incat toare masinile 
+au o destinatie. 
+
+1. Folositi patternul Observer pentru a notifica sosirea masinilor in sedii si pentru a updata stockul de masini.
+2. Implementati o interfata grafica pentru a putea selecta o masina si pentru a afisa culoarea ei folosind Decorator pattern.
+
+Explicati cum ati folosit cele 2 patternuri in implementarea voastra.
+
+Linkuri utile:
+https://www.tutorialspoint.com/design_pattern/observer_pattern.htm
+https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
