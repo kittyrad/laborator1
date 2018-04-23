@@ -16,12 +16,23 @@ My email address: cristina.radulescu.utcn@gmail.com
 
 [4. Project deliverables](https://github.com/kittyrad/laborator1/tree/master/src/resources/Project%20Deliverables)
 
-5. Final Project reminder
+5. Final Project reminder and Iteration 2 reminder
    - [Design patterns](https://sourcemaking.com/design_patterns)
-   - You will present 3 design patterns for the final project (Creational, Structural, Behavioral)
-   - the design patterns will be shown also in the deliverable (Iteration 1.2 and 2)
-   - as discussed the projects will be more complex than the Assignments (architecture, design, frameworks used)
-   - projects with only 2 or 3 classes in the class diagram will not be accepted!
+   - you need to refine Iteration 1 and Iteration 1.2
+   - grading/pass or not pass on Project and Iteration 2 will be done on following criteria:
+   
+   - you will have more users (admin, regular user) who login in your application (reflected also in Iteration 2)
+   - you will present minimum 3 design patterns for the final project (Creational, Structural, Behavioral) (reflected also in Iteration 2)
+   - the design patterns will be shown also in the deliverable in the class diagrams (Iteration 1.2 and 2)
+   - you will present the architectural pattern that you used in your application (reflected also in Iteration 2))
+   - as discussed the projects will be more complex than the Assignments (architecture, design, frameworks used) (reflected also in Iteration 2)
+   - you will present the frameworks used: Hibernate, Spring or others ??? (reflected also in Iteration 2)
+   - projects with only 2 or 3 classes in the class diagram will not be accepted! Will be more complex than that! (reflected also in Iteration 2)
+   - project with only 2 or 3 tables in the database model diagram will not be accepted! Will be more complex than that! (reflected also in Iteration 2)
+     (present relationship types in your database model: OneToOne, OneToMany, ManyToMany and motivate your choice)
+   - GUI will be more complex
+   - report generation (motivate your choice)
+
 -------------------------------------------------------------------------------------------------------------------------------
 Lab 1
 
@@ -125,3 +136,13 @@ Lab 5
 Lab 8
 
   [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema1-design-patterns.txt)
+
+ -------------------------------------------------------------------------------------------------------------------------------
+Lab 9  
+  [1. Lab exercise: Use design patterns to implement the following problem]()
+  [2. Assignment 3: ]() 
+  
+ -------------------------------------------------------------------------------------------------------------------------------
+Lab 10
+
+tbd
