@@ -1,0 +1,24 @@
+Problema 2 DPs
+
+Bancomat BT: Command & Chain of responsibility DPs
+
+George doreste sa faca urmatoarele operatii la bancomatul BT: 
+  - sa depuna o suma de bani in contul sau
+  - sa retraga o suma de bani din contul sau
+
+1. Folositi Command Design Pattern pentru a simula operatia de depunere de numerar si cea de retragere de numerar de la banca.
+Simulati cum functioneaza cateva operatii consecutive de depunere si retragere.
+
+2. Folositi Chain of Responsibility Design Pattern pentru a simula retragerea de numerar a lui George de la bancomat afisand la consola 
+pasii parcursi de bancomat pentru a identifica numarul bancnotelor + valoarea acestora care ii vor fi distribuite lui George.
+Bancomatul distribuie doar bancnote de 100 de lei, 50 de lei, 20 de lei si 10 lei. 
+Simulati operatiile facute daca George doreste sa retraga 580 de lei de la bancomat si afisati numarul de bancnote de 100, 50, 20, 10 lei
+pe care acesta le primeste.
+
+3. Prezentati diagrama de clasa si aratati DPs folosite in diagrama.
+ 
+Aratati independent solutiile la probleme.
+
+Help!
+https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm
+https://www.tutorialspoint.com/design_pattern/command_pattern.htm

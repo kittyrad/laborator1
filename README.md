@@ -144,4 +144,4 @@ Lab 9
  -------------------------------------------------------------------------------------------------------------------------------
 Lab 10
 
-tbd
+  [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema2-design-patterns.txt)
