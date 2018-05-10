@@ -1,0 +1,34 @@
+Problema 3 DPs: Memento & Strategy
+
+1. Geo doreste sa finalizeze articolul 'Memeonto' pana la finalul saptamanii. La finalul saptamanii vrea sa vada evolutia pe care a
+avut-o in fiecare zi si sa vada cum arata articolul la finalul fiecarei zi din saptamana.
+ - Afisati la consola startea articolului final si toate starile prin care a trecut (Luni, Marti, ...).
+ - Afisati la consola starea articolului de miercuri.
+ - Desenati diagrama de clasa
+ - Implementati problema folosind patternul Memento.
+
+--------------------
+Starea articolului Duminica: Memento a fost implementat cu succes si Geo a finalizat articolul.
+--------------------
+Starea articolului Luni: ABC. Luni.
+Starea articolului Mart: ABCD. Marti.
+....
+Starea articolului Duminica: Memento a fost implementat cu succes si Geo a finalizat articolul.
+--------------------
+
+2. Geo are mai multe strategii pentru a scrie articolul. Ea scrie la calculator, scrie pe tableta sau scrie pe telefon.
+In fiecare zi foloseste o alta strategie. Simulati scrierea articolului prin aplicarea diferitelor strategii.
+ - Afisati la consola ce strategie a aplicat in fiecare zi.
+ - Desenati diagrama de clasa.
+ - Implementati problema folosind patternul Strategy.
+
+ -------------------
+ Luni: Telefon
+ Marti: Calculator
+ ....
+ Duminica: Telefon
+
+
+Help!
+https://www.tutorialspoint.com/design_pattern/memento_pattern.htm
+https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
