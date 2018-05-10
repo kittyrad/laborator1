@@ -162,7 +162,7 @@ Lab 11
 
   [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema3-design-patterns.txt)
   
-  [2. Strategy DP](hhttps://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
+  [2. Strategy DP](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
   
   [3. Memento DP](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm)
     
