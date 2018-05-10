@@ -137,15 +137,15 @@ Lab 8
 
   [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema1-design-patterns.txt)
   
-  2. Observer design patter 
+  2. Observer design pattern
+  
+  3. Decorator design pattern
 
  -------------------------------------------------------------------------------------------------------------------------------
 Lab 9  
   [1. Assignment 3: Event visualization](https://classroom.github.com/a/VDSSEmaD) 
   
-  2. Observer design pattern
-  
-  3. Bridge design pattern
+  2. Bridge design pattern
   
  -------------------------------------------------------------------------------------------------------------------------------
 Lab 10
@@ -155,4 +155,14 @@ Lab 10
   [2. Chain of responsibility DP](https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm)
   
   [3. Command DP](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
+    
+  
+  -------------------------------------------------------------------------------------------------------------------------------  
+Lab 11
+
+  [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema3-design-patterns.txt)
+  
+  [2. Strategy DP](hhttps://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
+  
+  [3. Memento DP](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm)
     
