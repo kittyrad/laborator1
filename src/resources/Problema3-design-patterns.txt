@@ -1,8 +1,8 @@
 Problema 3 DPs: Memento & Strategy
 
-1. Geo doreste sa finalizeze articolul 'Memeonto' pana la finalul saptamanii. La finalul saptamanii vrea sa vada evolutia pe care a
+1. Geo doreste sa finalizeze articolul 'Memento' pana la finalul saptamanii. La finalul saptamanii vrea sa vada evolutia pe care a
 avut-o in fiecare zi si sa vada cum arata articolul la finalul fiecarei zi din saptamana.
- - Afisati la consola startea articolului final si toate starile prin care a trecut (Luni, Marti, ...).
+ - Afisati la consola starea articolului final si toate starile prin care a trecut (Luni, Marti, ...).
  - Afisati la consola starea articolului de miercuri.
  - Desenati diagrama de clasa
  - Implementati problema folosind patternul Memento.
