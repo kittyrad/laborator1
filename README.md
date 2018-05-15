@@ -156,8 +156,7 @@ Lab 10
   
   [3. Command DP](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
     
-  
-  -------------------------------------------------------------------------------------------------------------------------------  
+ -------------------------------------------------------------------------------------------------------------------------------
 Lab 11
 
   [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema3-design-patterns.txt)
@@ -166,3 +165,26 @@ Lab 11
   
   [3. Memento DP](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm)
     
+  
+  -------------------------------------------------------------------------------------------------------------------------------
+
+ Lab 12
+ 
+   [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema4-design-patterns.txt)
+   
+   [2. Adapter DP](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+   
+   [3. Visitor DP](https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm)
+   
+   [4. Null Object DP](https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm)
+
+
+ -------------------------------------------------------------------------------------------------------------------------------
+
+ Lab 13
+ 
+  tbd (some other patterns)
+
+ -------------------------------------------------------------------------------------------------------------------------------
+
+ Lab 14 (1st June Holiday)

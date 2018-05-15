@@ -1,0 +1,19 @@
+DP4: Visitor, Adapter and Null Object Design Patterns
+
+1. Geo lucreaza la o firma de imobiliare si se ocupa cu vanzarea de case. Pentru a face o vanzare este nevoie
+ca cumparatorului interesat de casa sa i se faca o prezentare a casei. Simulati vizitarea fiecarui etaj si al camerelor din casa
+cat si succesiunea vizitarii acestora.
+ - Prezentati diagrama de clase
+ - Implementati problema folosing patternul Visitor
+
+2. Geo realizeaza un convertor de sunet care poate reda o melodie interpretata la sunet normal in original dar si la diferite
+instrumente muzicale. De exemplu ea doreste sa redea o melodie la pian, la trompeta, la vioara, sau la chitara.
+Simulati redarea melodiei la instrumentul preferat de ea folosind design patternul Adapter.
+ - Prezentati diagrama de clasa
+ - Implementati problema folosing patternul Adapter
+ - Implementatia constructia instrumentelor folosind patternul Null Object Pattern (sau alt scenariu la alegere)
+
+Help!
+https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
+https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm
