@@ -184,10 +184,15 @@ Lab 11
  Lab 13
  
 [1. Lab exercise: Use design patterns to implement the following problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Problema5-design-patterns.txt)
+
 [2. Template](https://www.tutorialspoint.com/design_pattern/template_pattern.htm)
+
 [3. Composite](https://www.tutorialspoint.com/design_pattern/composite_pattern.htm)
+
 [4. Filter](https://www.tutorialspoint.com/design_pattern/filter_pattern.htmhttps://www.tutorialspoint.com/design_pattern/filter_pattern.htm)
+
 [5. Flyweight](https://www.tutorialspoint.com/design_pattern/flyweight_pattern.htm)
+
 [6. Proxy](https://www.tutorialspoint.com/design_pattern/proxy_pattern.htm)
 
  -------------------------------------------------------------------------------------------------------------------------------
