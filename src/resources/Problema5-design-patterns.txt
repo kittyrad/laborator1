@@ -1,0 +1,31 @@
+DP5: Filter, Composite, Flyweight, Proxy, Template Design Patterns
+
+Geo este manager la firma Coca-Cola fiind angajata de catre CEO Coca-Cola si doreste sa aiba urmatoarele rapoarte
+asupra angajatilor ei. Vrea sa poata afisa angajatii pe baza urmatoarelor criterii:
+ - toti angajatii care au salar mai mare decat o anumita suma data
+ - toti angajatii care au nr anilor de experienta mai mare decat un anumit numar
+ - toti angajatii care sunt de gen feminin
+ - toti angajatii care sunt de gen masculin
+ - toti angajatii care sunt dintr-o anumita locatie
+Fiecare angajat Coca-Cola are asigurat transport pana la servici. Daca nu exista transport la locatia respectiva
+se va cumpara un nou vehicul care sa il transporte, altfel va fi asociat unui vehiclul deja existent in firma.
+Angajatii pot sa lucreze in schimburi, unii noaptea si unii ziua. Programul lor consta in
+acelasi numar de actiuni insa in functie de zi/noapte exista diferente in actiuni.
+
+- Identificati si exemplificati unde putem folosi un anumit design pattern si exemplificati.
+- Prezentati diagrama de clase
+- Implementati urmatoarele:
+1. Afisati angajatii lui Geo aplicand criteriile de cautare mentionate.
+2. Afisati informatiile despre toti angajatii lui Geo si despre angajatorul ei la consola.
+3. Afisati masina care transporta un anumit angajat la servici.
+4. Afisati programul angajatilor la consola si detaliile despre actiuniile executate de ei.
+
+Help!
+Folositi 4 dintre urmatoarele design patterns pt a rezolva problema:
+1. Template: https://www.tutorialspoint.com/design_pattern/template_pattern.htm
+2. Composite: https://www.tutorialspoint.com/design_pattern/composite_pattern.htm
+3. Filter: https://www.tutorialspoint.com/design_pattern/filter_pattern.htmhttps://www.tutorialspoint.com/design_pattern/filter_pattern.htm
+4. Flyweight: https://www.tutorialspoint.com/design_pattern/flyweight_pattern.htm
+5. Proxy: https://www.tutorialspoint.com/design_pattern/proxy_pattern.htm
+
+
