@@ -189,7 +189,7 @@ Lab 11
 
 [3. Composite](https://www.tutorialspoint.com/design_pattern/composite_pattern.htm)
 
-[4. Filter](https://www.tutorialspoint.com/design_pattern/filter_pattern.htmhttps://www.tutorialspoint.com/design_pattern/filter_pattern.htm)
+[4. Filter](https://www.tutorialspoint.com/design_pattern/filter_pattern.htm)
 
 [5. Flyweight](https://www.tutorialspoint.com/design_pattern/flyweight_pattern.htm)
 
