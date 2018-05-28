@@ -199,4 +199,4 @@ Lab 11
 
  Lab 14 (1st June Holiday)
  
- - se va recupera si se vor prezenta proiecte
+ - se va recupera si se vor prezenta proiecte pe Baritiu
